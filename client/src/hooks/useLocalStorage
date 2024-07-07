@@ -1,0 +1,20 @@
+// import { FunctionExpression } from "typescript";
+
+// const arrayFunction: FunctionExpression[] = [];
+
+// const updateState = () => {
+//   const item = localStorage.getItem('indexActiveBoard')
+
+//   if (item && arrayFunction.length) {
+//     for (let f of arrayFunction){
+//       f(Number(item));
+//     }
+//   }
+// }
+
+// export const setValue = (value:number) => {
+//   localStorage.setItem('indexActiveBoard', '${value}');
+// }
+
+// window.addEventListener('storage', updateState)
+
